@@ -1,0 +1,11 @@
+{
+  "name": "comp4111-presentation",
+  "version": "1.0.0",
+  "description": "Node modules for JS in COMP 4111 Presentation",
+  "main": "index.js",
+  "author": "STommydx <ttoo74@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
